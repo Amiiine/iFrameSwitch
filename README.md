@@ -7,8 +7,6 @@ The error is on Edge:  ERROR webdriver: Request failed due to no such frame: The
 Please note the same test works on Chrome,FireFox,Safari,IE11.
 
 ## Installation
-* `git clone [https://github.com/safetyculture/frontend-ui-tests.git](https://github.com/SafetyCulture/TeamTrain-ui-test.git)`
-* `cd TeamTrain-ui-test`
 * `npm install`
 
 ## Running Tests
